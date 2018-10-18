@@ -1,0 +1,22 @@
+body {
+    background-image: url(background.jpg);
+    background-size: cover;
+	background-attachment: fixed;
+    background-repeat: no-repeat;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 175%;
+    
+}
+.again:hover {
+    
+    color: white;
+    size: 150%
+   
+   
+  }
+  #again {
+    position:relative;
+    left: 125px;
+    top: 20px;
+}
